@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/inhabitent-project/wp-content/plugins/query-monitor/wp-content/db.php

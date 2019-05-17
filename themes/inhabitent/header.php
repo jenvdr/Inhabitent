@@ -26,6 +26,8 @@
 
 	<header id="masthead" class="site-header">
 		<div class="site-branding">
+
+		<img src="wp-content/themes/inhabitent/images/logos/inhabitent-logo-full.svg" alt="Inhabitent Logo">
 			<?php
 			the_custom_logo();
 			if ( is_front_page() && is_home() ) :

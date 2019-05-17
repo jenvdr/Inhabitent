@@ -1,0 +1,11 @@
+@import "./variables.scss";
+@import "./font-faces";
+
+
+h1, h2, h3{
+  font-family: $accent-font;
+}
+
+p {
+  font-family: $main-font;
+}

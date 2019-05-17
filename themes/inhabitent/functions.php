@@ -107,7 +107,17 @@ function inhabitent_widgets_init() {
 	register_sidebar( array(
 		'name'          => esc_html__( 'Sidebar', 'inhabitent' ),
 		'id'            => 'sidebar-1',
-		'description'   => esc_html__( 'Add widgets here.', 'inhabitent' ),
+		'description'   => esc_html__( 'Add sidebar widgets here.', 'inhabitent' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+
+	register_sidebar( array(
+		'name'          => esc_html__( 'Footer', 'inhabitent' ),
+		'id'            => 'footer-1',
+		'description'   => esc_html__( 'Add footer widgets here.', 'inhabitent' ),
 		'before_widget' => '<section id="%1$s" class="widget %2$s">',
 		'after_widget'  => '</section>',
 		'before_title'  => '<h2 class="widget-title">',
@@ -120,17 +130,26 @@ add_action( 'widgets_init', 'inhabitent_widgets_init' );
  * Enqueue scripts and styles.
  */
 function inhabitent_scripts() {
-	wp_enqueue_style( 'inhabitent-style', get_stylesheet_uri() );
+	wp_enqueue_style( 'inhabitent-style', get_template_directory_uri() . '/build/main.css' );
+//Adds Fontawesome to the site:
+	wp_enqueue_style( 'inhabitent-fa', 'https://use.fontawesome.com/releases/v5.8.2/css/all.css' );
 
-	wp_enqueue_script( 'inhabitent-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
-
-	wp_enqueue_script( 'inhabitent-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
+	wp_enqueue_script( 'inhabitent-scripts', get_template_directory_uri() . '/build/scripts.js', array(), '20151215', true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
 	}
 }
 add_action( 'wp_enqueue_scripts', 'inhabitent_scripts' );
+//
+//CHANGE LOOK OF SUBPAGES:
+//
+// change look of log-in page:
+function my_login_stylesheet() {
+    wp_enqueue_style( 'custom-login', get_stylesheet_directory_uri() . '/build/log-in.css' );
+}
+add_action( 'login_enqueue_scripts', 'my_login_stylesheet' );
+
 
 /**
  * Implement the Custom Header feature.
@@ -151,6 +170,11 @@ require get_template_directory() . '/inc/template-functions.php';
  * Customizer additions.
  */
 require get_template_directory() . '/inc/customizer.php';
+
+/**
+ * Change the logo on the WP login screen to be Inhabitent's logo and change img url to homepage.
+ */
+require get_template_directory() . '/inc/extras.php';
 
 /**
  * Load Jetpack compatibility file.
