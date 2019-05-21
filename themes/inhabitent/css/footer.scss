@@ -1,0 +1,54 @@
+@import "./variables.scss";
+
+.site-footer {
+    display: flex;
+    flex-direction: row;
+    background-image: url(../images/dark-wood@2x.png);
+    background-size: 512px 512px;
+}
+
+
+
+footer h2 {
+    color: $brand-color-orange;
+}
+
+footer p {
+    color: #ffffff;
+    font-family: $main-font;
+}
+footer a {
+    color:#ffffff;
+    font-family: $main-font;
+}
+div.footer-blocks {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#secondaryFooter {
+    display: flex;
+    flex-direction: row;
+    width: 50vw;
+
+}
+#custom_html-2 {
+    line-height: 2;
+    margin: 3rem 0;
+    padding-right: 1.5rem;
+    width: 40%;
+    > div > ul > li {
+        list-style: none;
+    }
+}
+
+#text-2 {
+    list-style: none;
+    line-height: 2;
+    margin: 3rem 0;
+    padding-right: 1.5rem;
+    width: 40%;
+}

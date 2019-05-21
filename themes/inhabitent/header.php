@@ -21,14 +21,15 @@
 </head>
 
 <body <?php body_class(); ?>>
-<div id="page" class="site">
+  <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'inhabitent' ); ?></a>
 
 	<header id="masthead" class="site-header">
+    <div class="container">
 		<div class="site-branding">
 
-		<img src="wp-content/themes/inhabitent/images/logos/inhabitent-logo-full.svg" alt="Inhabitent Logo">
-			<?php
+		<a href="http://localhost:8888/inhabitent-project/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos/inhabitent-logo-tent.svg" alt="Inhabitent Logo"></a>
+			<!-- <?php
 			the_custom_logo();
 			if ( is_front_page() && is_home() ) :
 				?>
@@ -43,18 +44,31 @@
 			if ( $inhabitent_description || is_customize_preview() ) :
 				?>
 				<p class="site-description"><?php echo $inhabitent_description; /* WPCS: xss ok. */ ?></p>
-			<?php endif; ?>
+			<?php endif; ?> -->
 		</div><!-- .site-branding -->
-
 		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'inhabitent' ); ?></button>
+			<!-- <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'inhabitent' ); ?></button> -->
 			<?php
 			wp_nav_menu( array(
 				'theme_location' => 'menu-1',
 				'menu_id'        => 'primary-menu',
 			) );
-			?>
-		</nav><!-- #site-navigation -->
+      ?>
+      <div class="header-search">
+        <form role="search" method="get" class="search-form" action="http://localhost:8888/inhabitent-project/">
+  <fieldset>
+		<a href="#" class="search-toggle" aria-hidden="true">
+			<i class="fa fa-search"></i>
+		</a>
+		<label>
+			<input type="search" class="search-field" value="" name="s" title="Search for:">
+		</label>
+		<input type="submit" id="search-submit" class="screen-reader-text" value="Search">
+	</fieldset>
+        </form>
+      </div>
+    </nav><!-- #site-navigation -->
+    </div><!-- .container -->
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">

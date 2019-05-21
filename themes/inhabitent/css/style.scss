@@ -1,6 +1,9 @@
 @import "./variables.scss";
 @import "./font-faces";
 
+body {
+  margin:0;
+}
 
 h1, h2, h3{
   font-family: $accent-font;
@@ -9,3 +12,4 @@ h1, h2, h3{
 p {
   font-family: $main-font;
 }
+
