@@ -1,0 +1,39 @@
+@import "./variables.scss";
+
+form > p > label {
+  font-family: $accent-font;
+  text-transform: uppercase;
+  > span.required {
+    color: $brand-color-orange;
+  }
+  > span.wpcf7-form-control-wrap > input, textarea{
+    color: #666;
+    background-color: #f4f4f4;
+    border: 1px solid #e1e1e1;
+    border-radius: 0;
+    padding: .3rem;
+    line-height: 1.75;
+  }
+  > span.wpcf7-form-control-wrap > input {
+    width: 60%;
+  }
+  > span.wpcf7-form-control-wrap > textarea{
+    padding-left: .3rem;
+    width: 100%;
+  }
+}
+#wpcf7-f93-p11-o1 > form > p:nth-child(6) > input {
+  background: $brand-color-green;
+  border: none;
+  border-radius: 0;
+  color: #fff;
+  cursor: pointer;
+  font-family: $accent-font;
+  font-size: 14.4px;
+  font-size: .9rem;
+  line-height: 1;
+  padding: .75rem 1.5rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}

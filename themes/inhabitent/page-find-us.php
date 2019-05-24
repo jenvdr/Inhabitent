@@ -11,19 +11,17 @@
  *
  * @package inhabitent
  */
-//ABOUT USES THIS
+
 get_header();
 ?>
-
-<!--CONTENT -->
+<div class="find-us">
 <?php
 if (have_posts()):
   while (have_posts()) : the_post();
   ?>
-<div class="about">
-<div class="about-background">
-    <h1>About</h1>
-</div>
+
+<div class="find-us-content">
+
       <?php
     the_content();
     ?>
@@ -34,7 +32,10 @@ else:
   echo '<p>Sorry, no posts matched your criteria.</p>';
 endif;
 ?>
-<!-- NO SIDEBAR -->
+ <?php
+get_sidebar();
+?>
+</div>
 <?php
 get_footer();
 ?>

@@ -1,0 +1,51 @@
+@import "./variables.scss";
+@import "./general.scss";
+
+
+#secondary.widget-area {
+padding-left: 5%;
+width: 27%;
+padding-top: 3rem;
+padding-bottom: 3rem;
+  #custom_html-3 { //Contact section
+    > div > div > p > span > a {
+      color: $brand-color-green;
+    }
+    > div > div > p.contact-meta {
+      margin-bottom: .5rem;
+      > i.fa {
+        margin-right: .5rem;
+        width: 20px;
+      }
+    }
+    > div > div > p:nth-child(3) {
+      display: flex;
+    }
+    > h2{ // Contact Info section uppercase
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+    }
+  }
+  #text-3 {
+    > h2 {
+      margin: 1.5rem 0;
+      font-size: 1.8rem;
+    }
+    > div > p {
+      margin-bottom: .5rem;
+    }
+  }
+
+  #archives-2 {
+  > h2 { // Archives section uppercase
+  margin: 1.5rem 0;
+  text-transform: uppercase;
+  }
+  > ul > li {
+    list-style: none;
+    > a {
+      color: $brand-color-green;
+    }
+  }
+}
+}

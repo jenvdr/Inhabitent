@@ -36,7 +36,6 @@ div.footer-blocks {
 
 }
 #custom_html-2 {
-    line-height: 2;
     margin: 3rem 0;
     padding-right: 1.5rem;
     width: 40%;
@@ -46,9 +45,39 @@ div.footer-blocks {
 }
 
 #text-2 {
-    list-style: none;
-    line-height: 2;
     margin: 3rem 0;
     padding-right: 1.5rem;
-    width: 40%;
+    width: 50%;
+}
+
+
+#colophon {
+    line-height: 2;
+    list-style: none;
+    font-size: 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    > div.site-info {
+        padding: 1.5rem 0;
+        text-align: center;
+        text-transform: uppercase;
+        > div {
+            font-size:1rem;
+            color:#ffffff;
+            font-family: $accent-font;
+        }
+    }
+    > div.footer-blocks {
+        > a {
+        margin-top: 3rem;
+        width:50%;
+        display:flex;
+        justify-content: flex-end;
+        }
+        > a > img {
+            max-width: 50%;
+            max-height: 40%;
+        }
+    }
 }

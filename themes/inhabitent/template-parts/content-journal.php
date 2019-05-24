@@ -6,9 +6,9 @@
  *
  * @package inhabitent
  */
-///blog post page
+//DISPLAYS THE ACTUAL ARTICLE
 ?>
-
+<div class="blog-post-content" id="isthisworking">
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
 		<?php
@@ -57,3 +57,5 @@
 		<?php inhabitent_entry_footer(); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-<?php the_ID(); ?> -->
+</div>
+

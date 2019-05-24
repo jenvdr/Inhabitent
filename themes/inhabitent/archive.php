@@ -9,7 +9,7 @@
 
 get_header();
 ?>
-
+<div class="journal-archive-content">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
@@ -47,6 +47,7 @@ get_header();
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
+	</div>
 
 <?php
 get_sidebar();

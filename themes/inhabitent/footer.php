@@ -24,12 +24,12 @@
 </aside><!-- #secondary -->
 <!-- WIDGET AREA FOR FOOTER CONTENT-->
 	<a href="http://localhost:8888/inhabitent-project/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos/inhabitent-logo-text.svg" alt="Inhabitent Logo"></a>
-	<div class="site-info">
+</div>
+<div class="site-info">
 	<div class="copyright-container">
 		Copyright &copy; 2019 Inhabitent
 	</div>
-</div>
-</div>
+	</div>
 </footer><!-- #colophon -->
 </div><!-- #page -->
 

@@ -1,0 +1,36 @@
+@import "./variables.scss";
+@import "./general.scss";
+
+#content > div.about {
+    margin-bottom: 3rem;
+
+> h2 {
+    text-align: center;
+    margin: 1.5rem auto;
+    max-width: 800px;
+    font-size: 2rem;
+}
+> p {
+    font-size: 1.1rem;
+    font-family: $main-font;
+    margin: 1.5rem auto;
+    max-width: 800px;
+}
+> div.about-background {
+    height: 100vh;
+    background-image: linear-gradient( to bottom, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4) 100% ), url(./../images/about-hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+    > h1 {
+        color: #ffffff;
+        text-transform: uppercase;
+        font-size: 3rem;
+    }
+}
+
+}
