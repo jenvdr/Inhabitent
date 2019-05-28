@@ -1,0 +1,17 @@
+@import "./variables.scss";
+@import "./general.scss";
+
+#main > section.home-hero{
+  height:100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4) 0px, rgba(0, 0, 0, 0.4)), url(../images/home-hero.jpg);
+  background-size: cover,cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  > img {
+    margin: auto;
+    display: block;
+    left: 0;
+    right: 0;
+  }
+}

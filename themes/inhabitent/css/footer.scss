@@ -6,21 +6,6 @@
     background-image: url(../images/dark-wood@2x.png);
     background-size: 512px 512px;
 }
-
-
-
-footer h2 {
-    color: $brand-color-orange;
-}
-
-footer p {
-    color: #ffffff;
-    font-family: $main-font;
-}
-footer a {
-    color:#ffffff;
-    font-family: $main-font;
-}
 div.footer-blocks {
     margin-left: auto;
     margin-right: auto;
@@ -33,28 +18,11 @@ div.footer-blocks {
     display: flex;
     flex-direction: row;
     width: 50vw;
-
 }
-#custom_html-2 {
-    margin: 3rem 0;
-    padding-right: 1.5rem;
-    width: 40%;
-    > div > ul > li {
-        list-style: none;
-    }
-}
-
-#text-2 {
-    margin: 3rem 0;
-    padding-right: 1.5rem;
-    width: 50%;
-}
-
-
 #colophon {
     line-height: 2;
     list-style: none;
-    font-size: 19px;
+    font-size: 16px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -80,4 +48,18 @@ div.footer-blocks {
             max-height: 40%;
         }
     }
+}
+#custom_html-4, #custom_html-5{
+  margin: 3rem 0;
+  padding-right: 1.5rem;
+  width: 50%;
+  > h2 {
+    color: $brand-color-orange;
+  }
+  > div > div > ul > li {
+    margin-bottom: .5rem;
+    color: #ffffff;
+    font-family: $main-font;
+    list-style: none;
+  }
 }

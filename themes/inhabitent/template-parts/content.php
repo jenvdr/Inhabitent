@@ -6,7 +6,7 @@
  *
  * @package inhabitent
  */
-///blog post page
+///RENDERS BLOGS
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>

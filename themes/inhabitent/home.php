@@ -14,7 +14,7 @@
 // JOURNAL PAGE
 get_header();
 ?>
-<div class =
+<div class = "isthisthefrontPAGE">
 <?php
 
 while ( have_posts() ) :
@@ -36,3 +36,4 @@ while ( have_posts() ) :
 
 get_footer();
 ?>
+</div>

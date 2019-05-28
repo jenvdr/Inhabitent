@@ -2,6 +2,8 @@
 @import "./_navigation.scss";
 @import "./general.scss";
 
+
+// SKIP TO CONTENT
 #page > a {
   position:absolute;
   top:auto;
@@ -27,7 +29,7 @@
   font-size:1.2em;
   z-index:999;
 }
-
+// SKIP TO CONTENT END
 
 
 #masthead {
@@ -38,48 +40,20 @@
   transition: top .5s linear;
   width: 100%;
   z-index: 3;
-  > div{
+  > div.container {
     align-items: center;
     display: flex;
     justify-content: space-between;
     margin-left: auto;
     margin-right: auto;
     width: 1120px;
-    > div > a > img{
+    > div.site-branding > a > img{
       height: 33px;
+    }
+    > #site-navigation > #primary-menu > ul > li {
+      list-style: none;
     }
   }
 }
 
-
-/*
-
-#masthead {
-    background-color: hsla(0,0%,100%,.85);
-    border-bottom: 1px solid #e1e1e1;
-    padding: .5rem 3vw;
-    position: fixed;
-    transition: top .5s linear;
-    margin-left: auto;
-    margin-right: auto;
-    min-width: 1203px;
-    max-width: 100%;
-    z-index: 3;
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-    .container {
-      margin-left: auto;
-      margin-right: auto;
-      width: 1120px;
-      align-items: center;
-      display: flex;
-      justify-content: space-between;
-    }
-
-
-
-}
-
-*/
 

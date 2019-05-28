@@ -14,8 +14,14 @@
 // HOMEPAGE
 get_header();
 ?>
+
+<div class="homepage">
+
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
+      <section class="home-hero">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos/inhabitent-logo-full.svg" alt="Inhabitent Logo">
+      </section>
 
 		<?php
 		while ( have_posts() ) :
@@ -30,11 +36,11 @@ $args = array( 'post_type' => 'post', 'order' => 'ASC', 'posts_per_page' => 3);
 ?>
 <?php if ( $products->have_posts() ) : ?>
     <?php while ( $products->have_posts() ) : $products->the_post(); ?>
-        <div class="">
-           <img href="<?php echo the_post_thumbnail( 'medium' ) ?>">
-           <h3><?php echo the_title() ?></h3>
-           <h3><?php echo get_comments_number() ?></h3>
-           <button><a href="<?php echo the_permalink() ?>"></a></button>
+        <div class="home-blog-posts">
+          <img href="<?php echo the_post_thumbnail( 'medium' ) ?>">
+          <h3><?php the_time( get_option( 'date_format' ) ) ?> / <?php echo get_comments_number() ?></h3>
+          <h3><?php echo the_title() ?></h3>
+          <button><a href="<?php echo the_permalink() ?>"></a></button>
         </div>
    <?php endwhile; ?>
    <?php wp_reset_postdata(); ?>
@@ -49,6 +55,7 @@ $args = array( 'post_type' => 'post', 'order' => 'ASC', 'posts_per_page' => 3);
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
+</div>
 </div>
 <?php
 get_footer();

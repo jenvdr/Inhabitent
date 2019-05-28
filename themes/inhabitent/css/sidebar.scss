@@ -1,48 +1,57 @@
 @import "./variables.scss";
 @import "./general.scss";
 
-
 #secondary.widget-area {
 padding-left: 5%;
-width: 27%;
+width: 30%;
 padding-top: 3rem;
-padding-bottom: 3rem;
-  #custom_html-3 { //Contact section
-    > div > div > p > span > a {
-      color: $brand-color-green;
-    }
-    > div > div > p.contact-meta {
-      margin-bottom: .5rem;
-      > i.fa {
+> #custom_html-2 {
+  > h2 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-right: 0;
+  }
+  > div > div > ul > li { // CONTACT INFO
+    font-family: $main-font;
+    width:80%;
+    font-size: 16px;
+    line-height: 1.75;
+    list-style: none;
+    margin-bottom: .5rem;
+    display: flex;
+      > i {
+        line-height: 1.8;
         margin-right: .5rem;
         width: 20px;
       }
-    }
-    > div > div > p:nth-child(3) {
-      display: flex;
-    }
-    > h2{ // Contact Info section uppercase
+      > a {
+      color: $brand-color-green;
+      }
+  }
+}
+> #custom_html-3 {
+  > h2.widget-title {
     text-transform: uppercase;
-    margin-bottom: 1.5rem;
-    }
+    font-size: 1.5rem;
+    margin: 1.5rem 0;
   }
-  #text-3 {
-    > h2 {
-      margin: 1.5rem 0;
-      font-size: 1.8rem;
-    }
-    > div > p {
-      margin-bottom: .5rem;
-    }
+  > div > div > ul > li {
+    font-family: $main-font;
+    list-style: none;
+    margin-bottom: .5rem;
   }
-
-  #archives-2 {
-  > h2 { // Archives section uppercase
-  margin: 1.5rem 0;
-  text-transform: uppercase;
+  }
+> #archives-3 {
+  > h2 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin: 1.5rem 0;
   }
   > ul > li {
+    font-family: $main-font;
     list-style: none;
+    margin-bottom: .5rem;
     > a {
       color: $brand-color-green;
     }

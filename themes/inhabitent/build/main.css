@@ -16,32 +16,32 @@
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -112,32 +112,32 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -173,32 +173,32 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -292,32 +292,32 @@ body.post-template-default.single.single-post #content > div.blog-post-content >
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -353,32 +353,32 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -439,7 +439,7 @@ form > p > label > span.wpcf7-form-control-wrap > textarea {
 .find-us .find-us-content {
   height: auto;
   border-right: 1px solid #e1e1e1;
-  width: 73%;
+  width: 80%;
   padding-right: 5%;
   padding-top: 3rem;
   padding-bottom: 5rem;
@@ -457,7 +457,7 @@ form > p > label > span.wpcf7-form-control-wrap > textarea {
 }
 
 .find-us .find-us-content #secondary {
-  width: 27%;
+  width: 20%;
   padding-left: 5%;
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -484,32 +484,32 @@ form > p > label > span.wpcf7-form-control-wrap > textarea {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -531,32 +531,32 @@ form > p > label > span.wpcf7-form-control-wrap > textarea {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -566,20 +566,6 @@ form > p > label > span.wpcf7-form-control-wrap > textarea {
   flex-direction: row;
   background-image: url("../images/dark-wood@2x.png");
   background-size: 512px 512px;
-}
-
-footer h2 {
-  color: #d99054;
-}
-
-footer p {
-  color: #ffffff;
-  font-family: "Merriweather Web";
-}
-
-footer a {
-  color: #ffffff;
-  font-family: "Merriweather Web";
 }
 
 div.footer-blocks {
@@ -597,26 +583,10 @@ div.footer-blocks {
   width: 50vw;
 }
 
-#custom_html-2 {
-  margin: 3rem 0;
-  padding-right: 1.5rem;
-  width: 40%;
-}
-
-#custom_html-2 > div > ul > li {
-  list-style: none;
-}
-
-#text-2 {
-  margin: 3rem 0;
-  padding-right: 1.5rem;
-  width: 50%;
-}
-
 #colophon {
   line-height: 2;
   list-style: none;
-  font-size: 19px;
+  font-size: 16px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -644,6 +614,26 @@ div.footer-blocks {
 #colophon > div.footer-blocks > a > img {
   max-width: 50%;
   max-height: 40%;
+}
+
+#custom_html-4,
+#custom_html-5 {
+  margin: 3rem 0;
+  padding-right: 1.5rem;
+  width: 50%;
+}
+
+#custom_html-4 > h2,
+#custom_html-5 > h2 {
+  color: #d99054;
+}
+
+#custom_html-4 > div > div > ul > li,
+#custom_html-5 > div > div > ul > li {
+  margin-bottom: .5rem;
+  color: #ffffff;
+  font-family: "Merriweather Web";
+  list-style: none;
 }
 * {
   padding: 0;
@@ -675,32 +665,32 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -723,32 +713,32 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -852,7 +842,7 @@ body {
   z-index: 3;
 }
 
-#masthead > div {
+#masthead > div.container {
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -861,86 +851,12 @@ body {
   width: 1120px;
 }
 
-#masthead > div > div > a > img {
+#masthead > div.container > div.site-branding > a > img {
   height: 33px;
 }
 
-/*
-
-#masthead {
-    background-color: hsla(0,0%,100%,.85);
-    border-bottom: 1px solid #e1e1e1;
-    padding: .5rem 3vw;
-    position: fixed;
-    transition: top .5s linear;
-    margin-left: auto;
-    margin-right: auto;
-    min-width: 1203px;
-    max-width: 100%;
-    z-index: 3;
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-    .container {
-      margin-left: auto;
-      margin-right: auto;
-      width: 1120px;
-      align-items: center;
-      display: flex;
-      justify-content: space-between;
-    }
-
-
-
-}
-
-*/
-@font-face {
-  font-family: 'Novecento Sans Web';
-  src: url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.eot");
-  src: url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.woff2") format("woff2"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.woff") format("woff"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.ttf") format("truetype"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.svg#novecento_sans_widenormal") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Novecento Sans Web';
-  src: url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.eot");
-  src: url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.woff2") format("woff2"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.woff") format("woff"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.ttf") format("truetype"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.svg#novecento_sans_widedemibold") format("svg");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
-  font-weight: bold;
-  font-style: italic;
+#masthead > div.container > #site-navigation > #primary-menu > ul > li {
+  list-style: none;
 }
 @font-face {
   font-family: 'Novecento Sans Web';
@@ -960,32 +876,155 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  font-weight: bold;
+  font-style: italic;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.75;
+  color: #404040;
+}
+
+#main > section.home-hero {
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4) 0px, rgba(0, 0, 0, 0.4)), url("../images/home-hero.jpg");
+  background-size: cover,cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#main > section.home-hero > img {
+  margin: auto;
+  display: block;
+  left: 0;
+  right: 0;
+}
+@font-face {
+  font-family: 'Novecento Sans Web';
+  src: url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.eot");
+  src: url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.woff2") format("woff2"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.woff") format("woff"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.ttf") format("truetype"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.svg#novecento_sans_widenormal") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Novecento Sans Web';
+  src: url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.eot");
+  src: url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.woff2") format("woff2"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.woff") format("woff"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.ttf") format("truetype"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.svg#novecento_sans_widedemibold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Novecento Sans Web';
+  src: url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.eot");
+  src: url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.woff2") format("woff2"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.woff") format("woff"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.ttf") format("truetype"), url("../fonts/Novecento/fonts/novecentosanswide-normal-webfont.svg#novecento_sans_widenormal") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Novecento Sans Web';
+  src: url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.eot");
+  src: url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.woff2") format("woff2"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.woff") format("woff"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.ttf") format("truetype"), url("../fonts/Novecento/fonts/novecentosanswide-demibold-webfont.svg#novecento_sans_widedemibold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather Web';
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -1005,52 +1044,62 @@ body {
 
 #secondary.widget-area {
   padding-left: 5%;
-  width: 27%;
+  width: 30%;
   padding-top: 3rem;
-  padding-bottom: 3rem;
 }
 
-#secondary.widget-area #custom_html-3 > div > div > p > span > a {
-  color: #248A83;
+#secondary.widget-area > #custom_html-2 > h2 {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  margin-right: 0;
 }
 
-#secondary.widget-area #custom_html-3 > div > div > p.contact-meta {
+#secondary.widget-area > #custom_html-2 > div > div > ul > li {
+  font-family: "Merriweather Web";
+  width: 80%;
+  font-size: 16px;
+  line-height: 1.75;
+  list-style: none;
   margin-bottom: .5rem;
+  display: flex;
 }
 
-#secondary.widget-area #custom_html-3 > div > div > p.contact-meta > i.fa {
+#secondary.widget-area > #custom_html-2 > div > div > ul > li > i {
+  line-height: 1.8;
   margin-right: .5rem;
   width: 20px;
 }
 
-#secondary.widget-area #custom_html-3 > div > div > p:nth-child(3) {
-  display: flex;
+#secondary.widget-area > #custom_html-2 > div > div > ul > li > a {
+  color: #248A83;
 }
 
-#secondary.widget-area #custom_html-3 > h2 {
+#secondary.widget-area > #custom_html-3 > h2.widget-title {
   text-transform: uppercase;
-  margin-bottom: 1.5rem;
-}
-
-#secondary.widget-area #text-3 > h2 {
+  font-size: 1.5rem;
   margin: 1.5rem 0;
-  font-size: 1.8rem;
 }
 
-#secondary.widget-area #text-3 > div > p {
+#secondary.widget-area > #custom_html-3 > div > div > ul > li {
+  font-family: "Merriweather Web";
+  list-style: none;
   margin-bottom: .5rem;
 }
 
-#secondary.widget-area #archives-2 > h2 {
-  margin: 1.5rem 0;
+#secondary.widget-area > #archives-3 > h2 {
   text-transform: uppercase;
+  font-size: 1.5rem;
+  margin: 1.5rem 0;
 }
 
-#secondary.widget-area #archives-2 > ul > li {
+#secondary.widget-area > #archives-3 > ul > li {
+  font-family: "Merriweather Web";
   list-style: none;
+  margin-bottom: .5rem;
 }
 
-#secondary.widget-area #archives-2 > ul > li > a {
+#secondary.widget-area > #archives-3 > ul > li > a {
   color: #248A83;
 }
 @font-face {
@@ -1071,32 +1120,32 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -1119,32 +1168,32 @@ body {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
@@ -1180,32 +1229,32 @@ p {
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-light-webfont.svg#merriweatherlight") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-light-webfont.svg#merriweatherlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-lightitalic-webfont.svg#merriweatherlight_italic") format("svg");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bold-webfont.svg#merriweatherbold") format("svg");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather Web';
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot");
-  src: url("../fonts/Merriweather/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot");
+  src: url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff2") format("woff2"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.woff") format("woff"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.ttf") format("truetype"), url("../fonts/Merriweather/fonts/merriweather-bolditalic-webfont.svg#merriweatherbold_italic") format("svg");
   font-weight: bold;
   font-style: italic;
 }
