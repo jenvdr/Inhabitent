@@ -1,0 +1,9 @@
+@import "./variables.scss";
+@import "./_sidebar-layout.scss";
+
+article.post {
+    > div.blog-post-header > a > img {
+        height: auto;
+        max-width: 100%;
+    }
+}
