@@ -16,22 +16,27 @@ get_header();
 ?>
 <div class="shop">
 <?php
-if (have_posts()):
-  while (have_posts()) : the_post();
-  ?>
+   $args = array( 'post_type' => 'product', 'order' => 'ASC' ); //<——— ADD AMOUNT
 
-<div class="shop-content">
-
-      <?php
-    the_content();
-    ?>
-</div>
-<?php
-  endwhile;
-else:
-  echo '<p>Sorry, no posts matched your criteria.</p>';
-endif;
+   $products = new WP_Query( $args ); // instantiate our object
 ?>
+
+<?php if ( $products->have_posts() ) : ?>
+
+   <?php while ( $products->have_posts() ) : $products->the_post(); ?>
+
+      <?php the_post();
+				    the_title(); //<!-- ADD TEMPLATE TAG FOR IMG,etc. -->
+            the_post_thumbnail();
+            ?>
+   <?php endwhile; ?>
+   <?php wp_reset_postdata(); ?>
+
+<?php else : ?>
+
+      <h2>Nothing found!</h2>
+
+<?php endif; ?>
 </div>
 <?php
 get_footer();

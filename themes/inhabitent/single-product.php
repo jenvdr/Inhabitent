@@ -6,27 +6,20 @@
  *
  * @package inhabitent
  */
-
+// Product frame
 get_header();
 ?>
-<div class="product-content">
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
+
+	<div id="primary-product" class="content-area">
+		<main id="main-product" class="site-main">
 
 		<?php
 		while ( have_posts() ) :
 			the_post();
-
 			get_template_part( 'template-parts/content', get_post_type() );
+			the_field('title');
             the_field('price');
-            the_field('color');
-            the_post_navigation();
-
-
-			// If comments are open or we have at least one comment, load up the comment template.
-			if ( comments_open() || get_comments_number() ) :
-				comments_template();
-            endif;
+            the_field('description');
 
 		endwhile; // End of the loop.
         ?>
@@ -35,8 +28,5 @@ get_header();
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
-<?php
-get_sidebar();
-?>
 <?php
 get_footer();

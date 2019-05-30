@@ -8,7 +8,7 @@
  */
 //DISPLAYS THE ACTUAL ARTICLE
 ?>
-<div class="blog-post-content" id="isthisworking">
+<div class="blog-post-content">
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
 		<?php
@@ -30,7 +30,7 @@
 	</header><!-- .entry-header -->
 
 	<?php inhabitent_post_thumbnail(); ?>
-
+	</div>
 	<div class="entry-content">
 		<?php
 		the_content( sprintf(
@@ -57,5 +57,4 @@
 		<?php inhabitent_entry_footer(); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-<?php the_ID(); ?> -->
-</div>
 

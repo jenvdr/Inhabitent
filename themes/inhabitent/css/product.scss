@@ -1,0 +1,76 @@
+@import "./variables.scss";
+@import "./general.scss";
+
+.single-product .site-content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1120px;
+  padding-top: 60px;
+}
+#primary-product {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+article.product {
+  margin: 0 0 4.5rem;
+  display:flex;
+  justify-content: space-between;
+  > div.entry-content {
+    width:48%;
+    > header > h1 {
+      text-transform: uppercase;
+      font-size: 2.4rem;
+      margin-bottom: .5rem;
+      color: $brand-color-orange;
+    }
+    > header > h4 {
+      font-family: $accent-font;
+      font-weight: lighter;
+      font-size: 28.8px;
+      font-size: 1.8rem;
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      text-transform: uppercase;
+    }
+    > header > p {
+      color: $base-font-color;
+      font-family: $main-font;
+      font-size: 16px;
+      font-size: 1rem;
+      line-height: 1.75;
+      margin-bottom: 1.5rem;
+    }
+  }
+  > div.post-thumbnail {
+  width: 48%;
+  > img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+}
+div.social-buttons {
+  margin: 1.5rem 0;
+  > button {
+    border: 1px solid #000;
+    color: #000;
+    font-family: Novecento Sans Web,sans-serif;
+    font-size: 14.4px;
+    font-size: .9rem;
+    line-height: 1;
+    padding: .75rem 1.5rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    > i {
+      margin-right: 10px;
+    }
+  }
+  > button:hover {
+    background: #248a83;
+    border: none;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+  }
+}
+
