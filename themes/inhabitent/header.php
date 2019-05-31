@@ -29,7 +29,7 @@
     <div class="container">
 		<div class="site-branding">
 
-		<a href="http://localhost:8888/inhabitent-project/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos/inhabitent-logo-tent.svg" alt="Inhabitent Logo"></a>
+		<a href="http://localhost:8887/inhabitent-project/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos/inhabitent-logo-tent.svg" alt="Inhabitent Logo"></a>
 			<!-- <?php
 			the_custom_logo();
 			if ( is_front_page() && is_home() ) :

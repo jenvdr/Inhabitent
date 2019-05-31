@@ -1,6 +1,15 @@
 @import "./variables.scss";
 @import "./general.scss";
 @import "./_form.scss";
+@import "./_sidebar-layout.scss";
+
+
+article.post {
+  > div.blog-post-header > div.post-thumbnail > img {
+      height: auto;
+      max-width: 100%;
+  }
+}
 
 /*
 .blog-post-header {
@@ -99,7 +108,7 @@
 }
 
 
- /*   > main > article > #isthisworking {
+*   > main > article > #isthisworking {
       > header {
         position: absolute;
         height:68vh;

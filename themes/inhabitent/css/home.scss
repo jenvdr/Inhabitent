@@ -15,3 +15,155 @@
     right: 0;
   }
 }
+div.blogposts {
+  max-width: 1120px;
+  margin-left:auto;
+  margin-right:auto;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 1.5rem;
+  margin-bottom: 1.5rem;
+  > div.home-blog-posts {
+    border: 1px solid #e1e1e1;
+    > ul > li > div.thumbnail-wrapper {
+      background-color: #e1e1e1;
+      height: 250px;
+      overflow: hidden;
+      position: relative;
+      > img {
+        left: 50%;
+        max-height: 250px;
+        max-width: none;
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%,-52%);
+        width: auto;
+      }
+    }
+    > ul > li > div.post-info-wrapper {
+      font-size: .9rem;
+      padding: .75rem 1rem;
+      position: relative;
+      overflow: hidden;
+      > span {
+        font-family: $main-font;
+      }
+      > h3  {
+        line-height: 1.2;
+        font-size: 1.4rem;
+        color:$brand-color-green;
+        font-family: $accent-font;
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}
+div.home-blog-posts > ul > li {
+  list-style: none;
+}
+
+// read more button
+
+button.read-entry {
+  bottom: .75rem;
+  left: .75rem;
+  background-color: transparent;
+  border: 1px solid #000;
+  border-radius: 0;
+  cursor: pointer;
+  padding: .75rem 1.5rem;
+  > a {
+  color: #000;
+  font-family: $accent-font;
+  font-size: .9rem;
+  line-height: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+}
+
+button.read-entry:hover {
+  background: #248a83;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    > a {
+      color: #fff;
+    }
+}
+
+///adventure POSTS
+
+div.adventures {
+  margin-bottom: 4.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1120px;
+  > ul {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: 2fr;
+    grid-gap: 20px 20px;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    width: 100%;
+    > li {
+      line-height: 1;
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+      > div {
+
+      }
+    }
+    > li:nth-child(1) {
+      grid-column: 1/span 2;
+      grid-row: 1/span 2;
+      > div > img {
+        left: 50%;
+        max-height: 620px;
+        max-width: none;
+        position: absolute;
+        top: 75%;
+        transform: translate(-50%,-75%);
+        width: auto;
+      }
+    }
+    > li:nth-child(2) {
+      grid-column: 3/span 2;
+      grid-row: 1/span 1;
+      > div > img {
+        left: 50%;
+        max-height: 620px;
+        max-width: none;
+        position: absolute;
+        top: 75%;
+        transform: translate(-50%,-75%);
+        width: auto;
+      }
+    }
+    > li:nth-child(3) {
+      > div > img {
+        left: 50%;
+        max-height: 620px;
+        max-width: none;
+        position: absolute;
+        top: 75%;
+        transform: translate(-50%,-75%);
+        width: auto;
+      }
+    }
+    > li:nth-child(4) {
+      > div > img {
+        left: 50%;
+        max-height: 620px;
+        max-width: none;
+        position: absolute;
+        top: 75%;
+        transform: translate(-50%,-75%);
+        width: auto;
+      }
+    }
+  }
+}
