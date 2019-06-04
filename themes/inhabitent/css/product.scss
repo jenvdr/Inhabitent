@@ -7,7 +7,55 @@
   margin-right: auto;
   width: 1120px;
   padding-top: 60px;
+#primary-product {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
+}
+article.product {
+  margin: 0 0 4.5rem;
+  display:flex;
+  justify-content: space-between;
+  > div.entry-content {
+    padding-left: 2vw;
+  }
+  > .post-thumbnail {
+    width: 250vw;
+    > img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
+
+header.product-content {
+  > p.description {
+    width: 90%;
+}
+  > h1.title {
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    margin-bottom: .2rem;
+    color: $brand-color-orange;
+  }
+  > p.price {
+    color: $base-font-color;
+    font-family: $accent-font;
+    font-size: 1.8rem;
+    line-height: 1.75;
+    margin-bottom: 1.2rem;
+  }
+  > p.price::before {
+    content: "$";
+  }
+}
+
+/*
+.single-product .site-content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1120px;
+  padding-top: 60px;
 #primary-product {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -21,7 +69,7 @@ article.product {
     > header > h1 {
       text-transform: uppercase;
       font-size: 2.4rem;
-      margin-bottom: .5rem;
+      margin-bottom: .2rem;
       color: $brand-color-orange;
     }
     > header > h4 {
@@ -30,16 +78,16 @@ article.product {
       font-size: 28.8px;
       font-size: 1.8rem;
       margin-top: 0;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.2rem;
       text-transform: uppercase;
     }
-    > header > p {
+    > header > p.price {
       color: $base-font-color;
-      font-family: $main-font;
-      font-size: 16px;
-      font-size: 1rem;
+      font-family: $accent-font;
+      font-size: 1.8rem;
       line-height: 1.75;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.2rem;
+    }
     }
   }
   > div.post-thumbnail {
@@ -50,5 +98,4 @@ article.product {
   }
 }
 }
-
-
+*/

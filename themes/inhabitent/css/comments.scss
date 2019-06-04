@@ -1,0 +1,38 @@
+@import "./variables.scss";
+@import "./general.scss";
+
+
+h2.comments-title {
+    color: $brand-color-purple;
+    font-size: 2.1rem;
+    margin-bottom: 1.5rem;
+    font-family: $accent-font;
+}
+ol.comment-list {
+    margin: 0 0 1.5rem 3rem;
+    > li {
+        border-bottom: 1px solid #e1e1e1;
+        padding-top: 1.5rem;
+        > article {
+            padding-bottom: 1.5rem;
+            display: flex;
+            > footer > div.comment-author.vcard {
+            > b {
+                font-style: normal;
+                font-weight: 700;
+                font-family: $main-font;
+            }
+            > img{
+                border-radius: 50%;
+                height: 64px;
+                margin-right: 1.5rem;
+                overflow: hidden;
+                width: 64px;
+            }
+            > span {
+                display: none;
+            }
+        }
+        }
+    }
+}

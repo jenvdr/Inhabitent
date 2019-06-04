@@ -132,7 +132,7 @@ add_action( 'widgets_init', 'inhabitent_widgets_init' );
 function inhabitent_scripts() {
 	wp_enqueue_style( 'inhabitent-style', get_template_directory_uri() . '/build/main.css' );
 //Adds Fontawesome to the site:
-	wp_enqueue_style( 'inhabitent-fa', 'https://use.fontawesome.com/releases/v5.8.2/css/all.css' );
+	wp_enqueue_style( 'inhabitent-fa', 'https://use.fontawesome.com/releases/v5.8.2/css/all.css', array() );
 
 	wp_enqueue_script( 'inhabitent-scripts', get_template_directory_uri() . '/build/scripts.js', array(), '20151215', true );
 

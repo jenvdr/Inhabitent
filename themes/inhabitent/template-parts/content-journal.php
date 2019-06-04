@@ -4,9 +4,8 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package inhabitent
+ * @package Inhabitents
  */
-///RENDERS BLOGS
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
@@ -24,30 +23,20 @@
 			?>
 			<div class="entry-meta">
 				<?php
-				the_date(); ?>/<?PHP comments_number();?> / <?php inhabitent_posted_by();?>
+				echo get_the_date(); ?> / <?PHP comments_number();?> / <?php inhabitent_posted_by();?>
 			</div><!-- .entry-meta -->
 		<?php endif; ?>
 	</header><!-- .entry-header -->
 	</div>
 	<div class="entry-content">
 		<?php
-		the_content();
-
-		wp_link_pages( array(
-			'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'inhabitent' ),
-			'after'  => '</div>',
-		) );
-
+        the_excerpt ();
 		?>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer-journal">
-		<?php inhabitent_entry_footer(); ?>
-		<div class="social-buttons">
-		<button type="button" class="black-btn"><i class="fab fa-facebook-f"></i>Like</button>
-		<button type="button" class="black-btn"><i class="fab fa-twitter"></i>Tweet</button>
-		<button type="button" class="black-btn"><i class="fab fa-pinterest"></i>Pin</button>
-		</div>
 
 	</footer><!-- .entry-footer -->
 </article><!-- #post-<?php the_ID(); ?> -->
+
+
